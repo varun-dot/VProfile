@@ -1,0 +1,9 @@
+user
+name
+pass
+email
+if
+then
+cp
+cd
+ls
